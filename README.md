@@ -1,5 +1,13 @@
 # Simple-Chatty-Bot
 
-A simple 🤖 bot proyect from **JetBrains Academy**. 
+A simple 🤖 bot proyect from **JetBrains Academy**.
 
-https://user-images.githubusercontent.com/45311081/170838279-020f6d47-35c3-4888-9985-32b70ecd389c.mp4
+## What does he do?
+- Welcomes You
+- Print your name
+- Guess your age based on math questions
+- Count all the numbers you want
+- Ask a question about programming
+
+## That he can not do?
+- Be able to love

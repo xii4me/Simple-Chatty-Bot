@@ -1,5 +1,4 @@
 # Simple-Chatty-Bot
-[👨‍💻 Project](https://hyperskill.org/projects/113?track=8)
 
 A simple 🤖 bot proyect from **JetBrains Academy**. 
 
